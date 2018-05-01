@@ -1,0 +1,6 @@
+*.sln
+*.ncb
+*.suo
+*.vcproj.*
+/debug
+readme.txt
